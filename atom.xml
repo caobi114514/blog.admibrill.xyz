@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Admibrill</title>
   
-  <subtitle>有志者,事竟成.</subtitle>
+  <subtitle>Run the code, run after the code</subtitle>
   <link href="https://blog.qyadbr.top/atom.xml" rel="self"/>
   
   <link href="https://blog.qyadbr.top/"/>
-  <updated>2025-06-30T11:45:28.003Z</updated>
+  <updated>2025-08-30T07:38:59.299Z</updated>
   <id>https://blog.qyadbr.top/</id>
   
   <author>
@@ -17,9 +17,34 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>博客一周年记</title>
+    <link href="https://blog.qyadbr.top/posts/hexo17/"/>
+    <id>https://blog.qyadbr.top/posts/hexo17/</id>
+    <published>2025-08-30T06:17:00.000Z</published>
+    <updated>2025-08-30T07:38:59.299Z</updated>
+    
+    <content type="html"><![CDATA[<p>不知不觉间，Admibrill已经在博客圈待了一个春秋了呢。<br>很久没有发博客了，那现在发一篇吧</p><h2 id="小站的建立"><a href="#小站的建立" class="headerlink" title="小站的建立"></a>小站的建立</h2><p>建站的时候也遇到了许多困难呢，不过好在一一解决了<br>买了域名，<del>这样就能加友链了</del><br>后来主题迁移到了Solitude！博客变快了好多呢</p><h2 id="GH-Orgs"><a href="#GH-Orgs" class="headerlink" title="GH Orgs"></a>GH Orgs</h2><p>这一年Admibrill加入了很多org呢</p><ul><li><a href="https://github.com/LingmoOS">LingmoOS</a></li><li><a href="https://github.com/ITCraftDevelopmentTeam">ITCDT</a></li><li>相侵想碍异家人</li><li>LiteYuki</li><li>….(<del>还有等等</del>)<h2 id="项目"><a href="#项目" class="headerlink" title="项目"></a>项目</h2></li></ul><h3 id="已Archive"><a href="#已Archive" class="headerlink" title="已Archive"></a>已Archive</h3><p>好奇怪为什么之前要用这么多时间搞这些呢<br>也许是用来熟悉Qt的吧</p><ul><li>LingmoPyUI(已被LingmoUIPy取代)</li><li>lingmo-webbrowser(还是用firefox好不折腾了)<h3 id="Under-Development"><a href="#Under-Development" class="headerlink" title="Under Development"></a>Under Development</h3></li><li><a href="https://github.com/Uniquenium">Uniquenium</a>(桌面小组件及桌面自定义工具)</li><li>AdmiBlog（准备迁移到Next.js的博客）<h2 id="是Qt！"><a href="#是Qt！" class="headerlink" title="是Qt！"></a>是Qt！</h2>自从加入LingmoOS，Admibrill开始研究Qt<br>最常访问的页面：<a href="https://doc.qt.io/qt-6/qmltypes.html">All QML Types | Qt 6.9</a><br>Uniquenium刚开始是用Python写的，让还发现了各种问题<br>于是迁移C++ Qt<br>于是开始经常访问的页面：<a href="https://doc.qt.io/qt-6/classes.html">All C++ Classes | Qt 6.9</a><br>但是Python也有许多好的特性<br>为了用这些Admibrill又开始折腾<a href="https://pybind11.readthedocs.io/en/stable/">pybind11 documentation</a></li></ul><h2 id="新名字！"><a href="#新名字！" class="headerlink" title="新名字！"></a>新名字！</h2><p>钦烨这个名字是瞎编的。Admibrill这个英文名是直接意译+省略拼出来的<br>后来觉得钦烨两个字不好于是起了个新名字——埃氮幂！</p><h2 id="接下来要折腾什么？"><a href="#接下来要折腾什么？" class="headerlink" title="接下来要折腾什么？"></a>接下来要折腾什么？</h2><p>由于Admibrill即将踏入九年级的大门，这个空余时间会变少（真的很少！）<br>但是Admibrill希望可以研究这些东西：</p><ul><li>Next.js(including HTML CSS JS React)</li><li>Vue.js</li><li>Vite.js</li><li>Tauri</li><li>….(<del>没错还有等等</del>)</li></ul><p>这一年我<del>竟自己编出来了</del>一句话，那就以这句话结尾吧<br>Run the code，run after the code!</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;不知不觉间，Admibrill已经在博客圈待了一个春秋了呢。&lt;br&gt;很久没有发博客了，那现在发一篇吧&lt;/p&gt;
+&lt;h2 id=&quot;小站的建立&quot;&gt;&lt;a href=&quot;#小站的建立&quot; class=&quot;headerlink&quot; title=&quot;小站的建立&quot;&gt;&lt;/a&gt;小站的建立&lt;/h2&gt;&lt;p&gt;建站的时候也遇到了许多困难呢，不过好在一一解决了&lt;br&gt;买了域名，&lt;del&gt;这样就能加友链了&lt;/del&gt;&lt;br&gt;后来主题</summary>
+      
+    
+    
+    
+    <category term="周年记" scheme="https://blog.qyadbr.top/categories/%E5%91%A8%E5%B9%B4%E8%AE%B0/"/>
+    
+    
+    <category term="日常记录" scheme="https://blog.qyadbr.top/tags/%E6%97%A5%E5%B8%B8%E8%AE%B0%E5%BD%95/"/>
+    
+  </entry>
+  
+  <entry>
     <title>P13020 [GESP202506 八级] 遍历计数 题解</title>
-    <link href="https://blog.qyadbr.top/2025/06/30/hexo16/"/>
-    <id>https://blog.qyadbr.top/2025/06/30/hexo16/</id>
+    <link href="https://blog.qyadbr.top/posts/hexo16/"/>
+    <id>https://blog.qyadbr.top/posts/hexo16/</id>
     <published>2025-06-30T11:18:06.000Z</published>
     <updated>2025-06-30T11:45:28.003Z</updated>
     
@@ -42,8 +67,8 @@
   
   <entry>
     <title>Moonlark（Nonebot2+Python）命令式聊天机器人插件开发记录</title>
-    <link href="https://blog.qyadbr.top/2025/05/25/hexo15/"/>
-    <id>https://blog.qyadbr.top/2025/05/25/hexo15/</id>
+    <link href="https://blog.qyadbr.top/posts/hexo15/"/>
+    <id>https://blog.qyadbr.top/posts/hexo15/</id>
     <published>2025-05-25T13:58:06.000Z</published>
     <updated>2025-05-28T14:01:14.036Z</updated>
     
@@ -68,8 +93,8 @@
   
   <entry>
     <title>使用Github Actions定制Github个人主页</title>
-    <link href="https://blog.qyadbr.top/2025/04/05/hexo14/"/>
-    <id>https://blog.qyadbr.top/2025/04/05/hexo14/</id>
+    <link href="https://blog.qyadbr.top/posts/hexo14/"/>
+    <id>https://blog.qyadbr.top/posts/hexo14/</id>
     <published>2025-04-05T15:18:47.000Z</published>
     <updated>2025-05-28T13:02:17.969Z</updated>
     
@@ -93,8 +118,8 @@
   
   <entry>
     <title>P3435 [POI 2006] OKR-Periods of Words 题解</title>
-    <link href="https://blog.qyadbr.top/2025/03/23/hexo13/"/>
-    <id>https://blog.qyadbr.top/2025/03/23/hexo13/</id>
+    <link href="https://blog.qyadbr.top/posts/hexo13/"/>
+    <id>https://blog.qyadbr.top/posts/hexo13/</id>
     <published>2025-03-23T12:45:44.000Z</published>
     <updated>2025-05-28T13:02:21.815Z</updated>
     
@@ -117,8 +142,8 @@
   
   <entry>
     <title>Qt Troubleshoot（三）</title>
-    <link href="https://blog.qyadbr.top/2025/01/20/hexo12/"/>
-    <id>https://blog.qyadbr.top/2025/01/20/hexo12/</id>
+    <link href="https://blog.qyadbr.top/posts/hexo12/"/>
+    <id>https://blog.qyadbr.top/posts/hexo12/</id>
     <published>2025-01-20T02:21:09.000Z</published>
     <updated>2025-05-28T13:02:28.252Z</updated>
     
@@ -141,8 +166,8 @@
   
   <entry>
     <title>Qt Troubleshoot（二）</title>
-    <link href="https://blog.qyadbr.top/2025/01/18/hexo11/"/>
-    <id>https://blog.qyadbr.top/2025/01/18/hexo11/</id>
+    <link href="https://blog.qyadbr.top/posts/hexo11/"/>
+    <id>https://blog.qyadbr.top/posts/hexo11/</id>
     <published>2025-01-18T02:47:34.000Z</published>
     <updated>2025-05-28T13:02:34.795Z</updated>
     
@@ -166,8 +191,8 @@
   
   <entry>
     <title>Qt Troubleshoot （一）</title>
-    <link href="https://blog.qyadbr.top/2024/12/30/hexo10/"/>
-    <id>https://blog.qyadbr.top/2024/12/30/hexo10/</id>
+    <link href="https://blog.qyadbr.top/posts/hexo10/"/>
+    <id>https://blog.qyadbr.top/posts/hexo10/</id>
     <published>2024-12-30T12:38:31.000Z</published>
     <updated>2025-05-28T13:02:40.775Z</updated>
     
@@ -191,8 +216,8 @@
   
   <entry>
     <title>使用Qt实现一个简易时钟应用</title>
-    <link href="https://blog.qyadbr.top/2024/12/08/hexo9/"/>
-    <id>https://blog.qyadbr.top/2024/12/08/hexo9/</id>
+    <link href="https://blog.qyadbr.top/posts/hexo9/"/>
+    <id>https://blog.qyadbr.top/posts/hexo9/</id>
     <published>2024-12-08T01:39:37.000Z</published>
     <updated>2025-05-28T13:02:44.483Z</updated>
     
@@ -224,8 +249,8 @@
   
   <entry>
     <title>自己动手写三维引擎（一）</title>
-    <link href="https://blog.qyadbr.top/2024/11/24/hexo8/"/>
-    <id>https://blog.qyadbr.top/2024/11/24/hexo8/</id>
+    <link href="https://blog.qyadbr.top/posts/hexo8/"/>
+    <id>https://blog.qyadbr.top/posts/hexo8/</id>
     <published>2024-11-24T10:43:25.000Z</published>
     <updated>2025-05-28T13:02:51.937Z</updated>
     
@@ -253,8 +278,8 @@
   
   <entry>
     <title>自己动手写二维物理引擎（一）</title>
-    <link href="https://blog.qyadbr.top/2024/10/20/hexo7/"/>
-    <id>https://blog.qyadbr.top/2024/10/20/hexo7/</id>
+    <link href="https://blog.qyadbr.top/posts/hexo7/"/>
+    <id>https://blog.qyadbr.top/posts/hexo7/</id>
     <published>2024-10-20T13:33:20.000Z</published>
     <updated>2025-05-28T13:02:55.462Z</updated>
     
@@ -279,8 +304,8 @@
   
   <entry>
     <title>域名迁移到blog.qyadbr.top</title>
-    <link href="https://blog.qyadbr.top/2024/10/04/hexo6/"/>
-    <id>https://blog.qyadbr.top/2024/10/04/hexo6/</id>
+    <link href="https://blog.qyadbr.top/posts/hexo6/"/>
+    <id>https://blog.qyadbr.top/posts/hexo6/</id>
     <published>2024-10-04T09:37:08.000Z</published>
     <updated>2025-05-28T13:02:58.771Z</updated>
     
@@ -306,8 +331,8 @@
   
   <entry>
     <title>自己动手写二维物理引擎（零）</title>
-    <link href="https://blog.qyadbr.top/2024/09/28/hexo5/"/>
-    <id>https://blog.qyadbr.top/2024/09/28/hexo5/</id>
+    <link href="https://blog.qyadbr.top/posts/hexo5/"/>
+    <id>https://blog.qyadbr.top/posts/hexo5/</id>
     <published>2024-09-28T04:06:08.000Z</published>
     <updated>2025-05-28T13:03:02.153Z</updated>
     
@@ -330,8 +355,8 @@
   
   <entry>
     <title>Markdown与外挂标签语法测试</title>
-    <link href="https://blog.qyadbr.top/2024/09/15/hexo4/"/>
-    <id>https://blog.qyadbr.top/2024/09/15/hexo4/</id>
+    <link href="https://blog.qyadbr.top/posts/hexo4/"/>
+    <id>https://blog.qyadbr.top/posts/hexo4/</id>
     <published>2024-09-15T13:05:08.000Z</published>
     <updated>2025-05-28T13:03:05.517Z</updated>
     
@@ -358,8 +383,8 @@
   
   <entry>
     <title>Hexo博客0氪建站记录（下）</title>
-    <link href="https://blog.qyadbr.top/2024/08/29/hexo3/"/>
-    <id>https://blog.qyadbr.top/2024/08/29/hexo3/</id>
+    <link href="https://blog.qyadbr.top/posts/hexo3/"/>
+    <id>https://blog.qyadbr.top/posts/hexo3/</id>
     <published>2024-08-29T07:57:55.000Z</published>
     <updated>2025-05-28T13:03:08.360Z</updated>
     
@@ -389,8 +414,8 @@
   
   <entry>
     <title>Hexo博客0氪建站记录（中）</title>
-    <link href="https://blog.qyadbr.top/2024/08/25/hexo2/"/>
-    <id>https://blog.qyadbr.top/2024/08/25/hexo2/</id>
+    <link href="https://blog.qyadbr.top/posts/hexo2/"/>
+    <id>https://blog.qyadbr.top/posts/hexo2/</id>
     <published>2024-08-25T07:57:55.000Z</published>
     <updated>2025-05-28T13:03:11.370Z</updated>
     
@@ -419,8 +444,8 @@
   
   <entry>
     <title>Hexo博客0氪建站记录（上）</title>
-    <link href="https://blog.qyadbr.top/2024/08/23/hexo1/"/>
-    <id>https://blog.qyadbr.top/2024/08/23/hexo1/</id>
+    <link href="https://blog.qyadbr.top/posts/hexo1/"/>
+    <id>https://blog.qyadbr.top/posts/hexo1/</id>
     <published>2024-08-23T03:00:56.000Z</published>
     <updated>2025-05-28T13:03:14.469Z</updated>
     
